@@ -51,7 +51,9 @@ https://github.com/user-attachments/assets/c7bef3b0-c6f1-443e-81c9-5ad88c15ab80
 **AbdelTawab Hussein**  
 Faculty of Computers and Artificial Intelligence  
 Cairo University, Egypt  
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/abdaltawab-hussein-183b66206/) 
+
+• [GitHub](https://github.com/Abdaltawab)
 
 ---
 
