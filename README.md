@@ -1,101 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skin Disease Diagnosis App</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        .container {
-            max-width: 960px;
-            margin: auto;
-            padding: 20px;
-        }
-        header {
-            background-color: #2c3e50;
-            color: white;
-            padding: 30px 20px;
-            text-align: center;
-        }
-        h1 {
-            margin-bottom: 10px;
-        }
-        .video {
-            margin: 30px 0;
-            text-align: center;
-        }
-        .video iframe {
-            width: 100%;
-            max-width: 800px;
-            height: 450px;
-            border-radius: 10px;
-        }
-        .awards img {
-            max-width: 200px;
-            margin: 10px;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-        }
-        .section {
-            margin-bottom: 40px;
-        }
-        .section h2 {
-            color: #2c3e50;
-        }
-        footer {
-            text-align: center;
-            padding: 20px;
-            font-size: 0.9em;
-            background: #f1f1f1;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Skin Disease Diagnosis App</h1>
-        <p>An AI-powered mobile application that diagnoses skin conditions with 97% accuracy</p>
-    </header>
+# Skin Disease Diagnosis App
 
-    <div class="container">
-        <div class="section">
-            <h2>About the Project</h2>
-            <p>
-                This graduation project uses deep learning to identify and diagnose skin diseases based on images.
-                The app provides the user with condition information, symptoms, and medical guidance. It was awarded
-                <strong>2nd place</strong> in the Medical Field at the 6th Olympiad for Computer Science and Informatics, Egypt (2024).
-            </p>
-        </div>
+An AI-powered mobile application that diagnoses skin conditions using deep learning with 97% accuracy.
 
-        <div class="video">
-            <h2>Demo Video</h2>
-            <!-- Replace with your YouTube or GitHub video link -->
-            
-            <iframe src="https://github.com/user-attachments/assets/f872bcb2-d47f-489b-965a-d53806c55340" frameborder="0" allowfullscreen></iframe>
-        </div>
+## 🧠 About the Project
 
-        <div class="section awards">
-            <h2>Awards & Recognition</h2>
-            <!-- Replace with your image file names -->
-            <img src="https://github.com/user-attachments/assets/08bf8fff-136c-4521-8d53-da448de2ef1d" alt="Award Certificate">![Uploading IMG_7388.jpg…]()
+This graduation project leverages artificial intelligence to detect and classify skin diseases from user-provided images. It provides diagnostic suggestions, symptoms, and medical guidance.
 
-            <img src="https://github.com/user-attachments/assets/be286fbc-0a10-4041-8b93-e1af0e08e58f" alt="Top 10 Project Recognition">
-            <img src="https://github.com/user-attachments/assets/3e65d4d2-dc7a-4c5f-b329-63e1c3fcdd96">
-            <img src="https://github.com/user-attachments/assets/259fe1b8-34c8-4f47-8da3-b4edf89389d4">
-            
-        </div>
-    </div>
-    
+- Achieved **2nd Place** in the Medical Field at the **6th Olympiad for Computer Science and Informatics**, Egypt (2024).
+- Selected among the **top 10 projects** from over 180 teams representing Egyptian universities.
+- Represented **Cairo University** in the national competition.
+
+---
+
+## 📽️ Demo Video
+
+[![Watch the video])
 
 
-    <footer>
-        © 2024 AbdelTawab Hussein – Cairo University
-    </footer>
-</body>
-</html>
+
+https://github.com/user-attachments/assets/c7bef3b0-c6f1-443e-81c9-5ad88c15ab80
+
+
+
+---
+
+## 🏆 Awards & Recognition
+![AMP_9850](https://github.com/user-attachments/assets/a790aed7-a4fb-4a9c-8167-c29cde06e350)
+![AMP_9816 (1)](https://github.com/user-attachments/assets/1fc7e5cd-7dc1-4b78-928f-93fe0aea555d)
+
+
+
+> 📌 Replace the image URLs above with the actual GitHub raw image links or local paths like `assets/award1.jpg`.
+![AMP_9851](https://github.com/user-attachments/assets/22f1f48d-12c6-489a-914d-d843d53c696d)
+![1721494362166](https://github.com/user-attachments/assets/0f1adf71-a5cd-4b35-a373-07a23ac65250)
+![1721494371436](https://github.com/user-attachments/assets/45e3d056-16b3-4760-8498-3bd3b1373d36)
+
+---
+
+## 🚀 Technologies Used
+
+- Flutter (Frontend)
+- TensorFlow / CNN Models (AI)
+- Python (Model Training)
+- Firebase (Optional backend)
+
+---
+
+## 👨‍💻 Developed By
+
+**AbdelTawab Hussein**  
+Faculty of Computers and Artificial Intelligence  
+Cairo University, Egypt  
+[LinkedIn](#) • [GitHub](#)
+
+---
+
+© 2024 – Skin Disease AI App | Cairo University Project
